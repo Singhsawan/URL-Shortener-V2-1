@@ -49,8 +49,6 @@ ABOUT_TEXT = """
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
 `👨‍💻 Developer:` [Dev](t.me/J_shree_ram)
-`📢 Support:` [Talk Bot](https://t.me/J_shree_ram)
-`🌐 Source Code:` [DM ME](https://t.me/bot_channel_011)
 """
 
 
